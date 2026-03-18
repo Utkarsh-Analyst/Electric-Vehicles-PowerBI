@@ -1,0 +1,22 @@
+# Power BI temporary and cache files
+*.pbix.bak
+*.pbix.lock
+
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code (if used for any scripting)
+.vscode/
+
+# Logs
+*.log
+
+# Local environment files
+.env
