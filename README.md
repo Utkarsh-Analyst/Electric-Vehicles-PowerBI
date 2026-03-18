@@ -66,9 +66,8 @@ git clone https://github.com/Utkarsh-Analyst/Electric-Vehicles-PowerBI.git
 
 ## 📸 Dashboard Preview
 
-> \*(Add a screenshot of your dashboard here)\*
-> To add: Take a screenshot in Power BI → save as `dashboard\_preview.png` → upload to this repo and replace this line with:
-> `!\[Dashboard Preview](dashboard\_preview.png)`
+
+![Dashboard Preview](dashboard_preview.png)
 
 \---
 
